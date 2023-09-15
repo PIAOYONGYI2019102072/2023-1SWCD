@@ -3,7 +3,7 @@
   
 사용기술: ML-agent  
 [ML-agent github](https://github.com/Unity-Technologies/ml-agents)  
-[Unity ML-agent](https://unity3d.com/kr/machine-learning)  
+
 
   
 플랫폼: Windows
